@@ -1,5 +1,7 @@
 ### GalaxyHeroes - zkSync Era testnet - NFT drop
 
+![galaxy-heroes](https://github.com/Bild96/GalaxyHeroes/assets/52472445/7f0c5de9-bb6e-4e24-8628-377fbe0718a7)
+
 ### Live Demo
 
 Try The live demo here: IPFS
@@ -24,11 +26,11 @@ yarn dev
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
 
-<img alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html&logoColor=white"/><img alt="CSS" src="https://img.shields.io/badge/css-%231572B6.svg?&style=for-the-badge&logo=css&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="Typescript" src="https://img.shields.io/badge/Typescript-%231572B6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/><img alt="React" src="https://img.shields.io/badge/ReactJS-%23000.svg?&style=for-the-badge&logo=react&logoColor=blue"/><img src="https://img.shields.io/badge/Version-0.1-green?style=for-the-badge"><img src="https://img.shields.io/github/license/bild96/solana-explorer?style=for-the-badge&color=blue">
+<img alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html&logoColor=white"/><img alt="CSS" src="https://img.shields.io/badge/css-%231572B6.svg?&style=for-the-badge&logo=css&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="Typescript" src="https://img.shields.io/badge/Typescript-%231572B6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/Version-0.1-green?style=for-the-badge"><img src="https://img.shields.io/github/license/bild96/solana-explorer?style=for-the-badge&color=blue">
   <br>
 <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square"><img src="https://img.shields.io/badge/Author-bild96-purple?style=flat-square">
 
-### Deploy to IPFS
+### 🌐 Deploy to IPFS
 
 Deploy a copy of your application to IPFS using the following command:
 
@@ -37,6 +39,12 @@ yarn deploy
 ```
 
 ## 🤳 Screenshots <a name = "screenshots"></a>
+
+![Screenshot from 2023-07-17 22-07-14](https://github.com/Bild96/GalaxyHeroes/assets/52472445/2ab34649-b812-4ab0-822d-1cfbb2c10fd3)
+
+![Screenshot from 2023-07-17 22-07-34](https://github.com/Bild96/GalaxyHeroes/assets/52472445/20da561d-0216-4649-91b1-a39202b134d0)
+
+
 
 
 ## ✍️ Authors <a name = "authors"></a>
